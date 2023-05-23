@@ -317,6 +317,7 @@ textarea.form-control {
 
 .section {
   padding: 7em 0;
+  background-color: #000;
 }
 
 @media (max-width: 991.98px) {
