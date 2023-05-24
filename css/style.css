@@ -930,8 +930,30 @@ textarea.form-control {
   box-shadow: 0 2px 7px 0 rgba(0, 0, 0, 0.2);
 }
 
-.img-fluid {
-  display: block;
-  height: 52%;
-  min-width: 100%;
+/* Extra small device (phones, 600px and down) */
+@media screen and (max-width: 600px){
+  .img-fluid {
+    display: block;
+    min-width: 100%;
+  }
+}
+/* Small device (portrait tablets and large phones, 600px and up) */
+@media screen and (min-width: 600px){
+  .img-fluid {
+    display: block;
+    height: 52%;
+    min-width: 100%;
+  }
+}
+/* Media devices (landscape tablets, 768px and up) */
+@media screen and (min-width: 768px){
+
+}
+/* Large devices (laptops/desktop, 992px and up) */
+@media screen and (min-width: 992px){
+
+}
+/* Extra large devices (large laptops and desktop, 1200px and up */
+@media screen and (min-width: 1200px){
+
 }
