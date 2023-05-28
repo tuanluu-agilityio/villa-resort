@@ -30,7 +30,6 @@ a:hover {
 
 h1, h2, h3, h4, h5 {
   color: #000;
-  font-family: "Playfair+Display", times, serif;
 }
 
 .container-fluid {
@@ -347,6 +346,7 @@ textarea.form-control {
 
 .visit-section .visit a {
   color: #b3b3b3;
+  font-family: "Mukta Mahee", arial, sans-serif;
 }
 
 .visit-section .visit a:hover {
@@ -755,6 +755,7 @@ textarea.form-control {
 .footer-section .contact-info span.d-block {
   font-style: italic;
   color: #fff;
+  font-family: "Mukta Mahee", arial, sans-serif;
 }
 
 .footer-section .social a {
