@@ -165,13 +165,13 @@ textarea.form-control {
 }
 
 .full-height {
-  height: 100vh;
+  height: 130vh;
   min-height: 700px;
 }
 
 .site-hero {
   background-size: cover;
-  height: 100vh;
+  height: 130vh;
   min-height: 700px;
   width: 100%;
 }
@@ -190,7 +190,7 @@ textarea.form-control {
   background: rgba(0, 0, 0, 0.45);
   content: "";
   position: absolute;
-  height: 100vh;
+  height: 130vh;
   min-height: 700px;
   top: 0;
   left: 0;
