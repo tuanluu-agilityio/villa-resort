@@ -360,7 +360,7 @@ textarea.form-control {
 }
 
 .visit-section .visit h3 {
-  font-size: 20px;
+  font-size: 15px;
   margin-bottom: 0;
 }
 
@@ -965,12 +965,22 @@ textarea.form-control {
     flex-grow: 1;
     max-width: 100%;
   }
+
+  .visit-section .visit h3 {
+    font-size: 20px;
+    margin-bottom: 0;
+  }
 }
 @media(min-width: 426px) and  (max-width: 961px){
-.col {
-  flex-basis: auto;
-  -webkit-box-flex: 1;
-  flex-grow: 1;
-  max-width: 50%;
-}
+  .col {
+    flex-basis: auto;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    max-width: 50%;
+  }
+
+  .visit-section .visit h3 {
+    font-size: 19px;
+    margin-bottom: 0;
+  }
 }
